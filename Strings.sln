@@ -15,9 +15,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.StringLength", "StringLe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.ExtractSentences", "ExtractSentences\07.ExtractSentences.csproj", "{FA74F5E2-2923-410E-9B8F-F6CB4C808078}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.UnicodeCharacters", "UnicodeCharacters\08.UnicodeCharacters.csproj", "{7C750934-35E1-4108-9129-F8D14E15F297}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.UnicodeCharacters", "UnicodeCharacters\10.UnicodeCharacters.csproj", "{7C750934-35E1-4108-9129-F8D14E15F297}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.ParseUrl", "ParseUrl\10.ParseUrl.csproj", "{605B95AE-336E-473C-95EF-4806385A711B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.ParseUrl", "ParseUrl\12.ParseUrl.csproj", "{605B95AE-336E-473C-95EF-4806385A711B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
